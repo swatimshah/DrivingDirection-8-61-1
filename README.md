@@ -7,7 +7,7 @@
 23/23 [==============================] - 0s 1ms/step - loss: 1.0219 - accuracy: 0.6113       <br/>
 Train: 0.861, Test: 0.611   <br/>
 [[243  57  37]              <br/>
- [ 73  87  14]              <br/>   
+ [ 73  87  14]              <br/>
  [ 81  19 112]]             <br/>  
 
  ![Screenshot](accuracy_61_1_Participants_7_conv_3_layers.png)
